@@ -3,6 +3,11 @@
 Welcome to the Argo DMQC GitHub repository!  
 The scripts in this repository are used to perform delayed mode quality control (DMQC) on Argo float data.  There are scripts for both SeaBird and RBR CTDs and most of the code is in Matlab.  In general, this code is designed for Argo delayed mode quality control experts.  
 
+Beginners are advised to read the DMQC Cookbook for Core Parameters first: https://archimer.ifremer.fr/doc/00678/78994/
+
+For more comprehensive description of the DMQC procedures, please refer to the Argo Quality Control Manual: https://archimer.ifremer.fr/doc/00228/33951/
+
+
 ***Argo Program Links***
 <br>
 The Argo Program is described here: https://argo.ucsd.edu 
